@@ -1,0 +1,39 @@
+body {
+  font-family: 'Ubuntu Mono', monospace;
+  text-align: center;
+  background-color: black;
+}
+canvas {
+  display: block;
+  margin: auto;
+  margin-top: 0px;
+  border: 5px solid #3D0000;
+}
+
+footer {
+  position: relative;
+  bottom: -1000px;
+  margin: auto;
+  margin-top: 80px;
+  font-size: 2rem;
+  font-family: 'Source Code Pro', monospace;
+  padding-top: 0px;
+}
+
+.imgNima{
+  width: 1.5rem;
+}
+
+.footerText{
+  color: #950101;
+}
+
+a{
+  text-decoration: none;
+
+  color: #DBEDF3;
+}
+
+a:hover{
+  color: #a2b0b4;
+}
